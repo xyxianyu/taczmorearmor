@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "NBN",
+    "   "
+  ],
+  "key": {
+    "S": { "item": "minecraft:string" },
+    "N": { "item": "taczmorearmor:cordura_nylon_66_fabric" },
+    "B": { "item": "taczmorearmor:aramid_fiber_fabric" }
+  },
+  "result": { "item": "taczmorearmor:armor_220" }
+}

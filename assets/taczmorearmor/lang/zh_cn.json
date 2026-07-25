@@ -1,0 +1,32 @@
+{
+  "item.taczmorearmor.armor_220": "220防弹衣",
+  "item.taczmorearmor.armor_6b2": "6B2防弹衣",
+  "item.taczmorearmor.armor_htac": "H-Tac特勤防弹衣",
+  "item.taczmorearmor.armor_6b13": "6B13防弹衣",
+  "item.taczmorearmor.armor_sek": "SEK堡垒防弹衣",
+  "item.taczmorearmor.armor_imtv": "IMTV武士防弹衣",
+  "item.taczmorearmor.armor_926": "926复合防弹衣",
+  "item.taczmorearmor.armor_6b45": "6B45重型防弹衣",
+  "item.taczmorearmor.armor_bt201": "BT201全护甲防弹衣",
+  "item.taczmorearmor.armor_6b45_leggings": "VCBO",
+  "item.taczmorearmor.merrell_moab_3_gtx_low": "Merrell Moab 3 GTX Low",
+  "item.taczmorearmor.lowa_zephyr_mk2_gtx_hi": "LOWA Zephyr MK2 GTX Hi",
+  "item.taczmorearmor.salomon_quest_4d_gtx_forces": "Salomon Quest 4D GTX Forces",
+
+  "item.taczmorearmor.cordura_nylon": "考杜拉尼龙",
+  "item.taczmorearmor.cordura_nylon_66_fabric": "考杜拉尼龙66布料",
+  "item.taczmorearmor.cordura_heavy_nylon_fabric": "考杜拉重型尼龙布料",
+  "item.taczmorearmor.aramid": "芳纶",
+  "item.taczmorearmor.aramid_fiber_fabric": "芳纶纤维布料",
+  "item.taczmorearmor.hard_alloy_plate": "硬质合金防弹插板",
+  "item.taczmorearmor.silicon_carbide": "碳化硅",
+  "item.taczmorearmor.black_silicon_plate": "黑硅防弹插板",
+  "item.taczmorearmor.boron_carbide": "碳化硼",
+  "item.taczmorearmor.black_boron_plate": "黑硼防弹插板",
+  "item.taczmorearmor.eva": "EVA",
+
+  "item.taczmorearmor.dt8_tape": "3M DT8布基胶带",
+  "item.taczmorearmor.leatherman_raptor": "莱泽曼猛禽救援剪",
+
+  "creativetab.taczmorearmor.armor_tab": "TACZ护甲"
+}

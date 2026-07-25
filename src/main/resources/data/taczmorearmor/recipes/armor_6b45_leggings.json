@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HNH",
+    "B B",
+    "H H"
+  ],
+  "key": {
+    "H": { "item": "taczmorearmor:cordura_heavy_nylon_fabric" },
+    "N": { "item": "taczmorearmor:cordura_nylon_66_fabric" },
+    "B": { "item": "taczmorearmor:aramid_fiber_fabric" }
+  },
+  "result": { "item": "taczmorearmor:armor_6b45_leggings" }
+}

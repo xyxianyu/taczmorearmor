@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H H",
+    "PPP",
+    "BPB"
+  ],
+  "key": {
+    "H": { "item": "taczmorearmor:cordura_heavy_nylon_fabric" },
+    "P": { "item": "taczmorearmor:black_boron_plate" },
+    "B": { "item": "taczmorearmor:aramid_fiber_fabric" }
+  },
+  "result": { "item": "taczmorearmor:armor_6b45" }
+}
