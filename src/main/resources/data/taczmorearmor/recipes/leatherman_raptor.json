@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IR ",
+    "E I",
+    "   "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:red_dye" },
+    "E": { "item": "taczmorearmor:eva" }
+  },
+  "result": { "item": "taczmorearmor:leatherman_raptor" }
+}

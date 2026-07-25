@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N N",
+    "SBS",
+    "B B"
+  ],
+  "key": {
+    "N": { "item": "taczmorearmor:cordura_nylon_66_fabric" },
+    "S": { "item": "taczmorearmor:black_silicon_plate" },
+    "B": { "item": "taczmorearmor:aramid_fiber_fabric" }
+  },
+  "result": { "item": "taczmorearmor:armor_926" }
+}

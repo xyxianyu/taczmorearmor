@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SC ",
+    "TS ",
+    "   "
+  ],
+  "key": {
+    "S": { "item": "minecraft:sand" },
+    "C": { "item": "minecraft:coal" },
+    "T": { "item": "minecraft:terracotta" }
+  },
+  "result": { "item": "taczmorearmor:silicon_carbide" }
+}

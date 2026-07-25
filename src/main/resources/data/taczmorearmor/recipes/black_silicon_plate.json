@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WSW",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "W": { "tag": "minecraft:wool" },
+    "S": { "item": "taczmorearmor:silicon_carbide" }
+  },
+  "result": { "item": "taczmorearmor:black_silicon_plate" }
+}

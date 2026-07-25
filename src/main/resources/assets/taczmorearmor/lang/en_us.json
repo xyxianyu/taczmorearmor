@@ -1,0 +1,32 @@
+{
+  "item.taczmorearmor.armor_220": "220 Body Armor",
+  "item.taczmorearmor.armor_6b2": "6B2 Body Armor",
+  "item.taczmorearmor.armor_htac": "H-Tac Special Body Armor",
+  "item.taczmorearmor.armor_6b13": "6B13 Body Armor",
+  "item.taczmorearmor.armor_sek": "SEK Fortress Body Armor",
+  "item.taczmorearmor.armor_imtv": "IMTV Samurai Body Armor",
+  "item.taczmorearmor.armor_926": "926 Composite Body Armor",
+  "item.taczmorearmor.armor_6b45": "6B45 Heavy Body Armor",
+  "item.taczmorearmor.armor_bt201": "BT201 Full Body Armor",
+  "item.taczmorearmor.armor_6b45_leggings": "VCBO",
+  "item.taczmorearmor.merrell_moab_3_gtx_low": "Merrell Moab 3 GTX Low",
+  "item.taczmorearmor.lowa_zephyr_mk2_gtx_hi": "LOWA Zephyr MK2 GTX Hi",
+  "item.taczmorearmor.salomon_quest_4d_gtx_forces": "Salomon Quest 4D GTX Forces",
+
+  "item.taczmorearmor.cordura_nylon": "Cordura Nylon",
+  "item.taczmorearmor.cordura_nylon_66_fabric": "Cordura Nylon 66 Fabric",
+  "item.taczmorearmor.cordura_heavy_nylon_fabric": "Cordura Heavy Nylon Fabric",
+  "item.taczmorearmor.aramid": "Aramid",
+  "item.taczmorearmor.aramid_fiber_fabric": "Aramid Fiber Fabric",
+  "item.taczmorearmor.hard_alloy_plate": "Hard Alloy Ballistic Plate",
+  "item.taczmorearmor.silicon_carbide": "Silicon Carbide",
+  "item.taczmorearmor.black_silicon_plate": "Black Silicon Ballistic Plate",
+  "item.taczmorearmor.boron_carbide": "Boron Carbide",
+  "item.taczmorearmor.black_boron_plate": "Black Boron Ballistic Plate",
+  "item.taczmorearmor.eva": "EVA",
+
+  "item.taczmorearmor.dt8_tape": "3M DT8 Duct Tape",
+  "item.taczmorearmor.leatherman_raptor": "Leatherman Raptor Rescue",
+
+  "creativetab.taczmorearmor.armor_tab": "TACZ Body Armors"
+}

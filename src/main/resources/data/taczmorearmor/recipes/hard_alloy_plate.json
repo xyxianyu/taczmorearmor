@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WIW",
+    "ICI",
+    "III"
+  ],
+  "key": {
+    "W": { "tag": "minecraft:wool" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "C": { "item": "minecraft:coal" }
+  },
+  "result": { "item": "taczmorearmor:hard_alloy_plate" }
+}

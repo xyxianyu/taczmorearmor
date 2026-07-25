@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNS",
+    "NLA",
+    "EEE"
+  ],
+  "key": {
+    "N": { "item": "taczmorearmor:cordura_nylon_66_fabric" },
+    "S": { "item": "minecraft:string" },
+    "L": { "item": "minecraft:leather" },
+    "A": { "item": "taczmorearmor:aramid_fiber_fabric" },
+    "E": { "item": "taczmorearmor:eva" }
+  },
+  "result": { "item": "taczmorearmor:salomon_quest_4d_gtx_forces" }
+}

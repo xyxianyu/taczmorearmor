@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WS ",
+    "SW ",
+    "   "
+  ],
+  "key": {
+    "W": { "tag": "minecraft:wool" },
+    "S": { "item": "minecraft:string" }
+  },
+  "result": { "item": "taczmorearmor:cordura_nylon" }
+}

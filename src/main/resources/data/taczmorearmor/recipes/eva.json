@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OC ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "O": { "item": "minecraft:oak_log" },
+    "C": { "item": "minecraft:coal" }
+  },
+  "result": { "item": "taczmorearmor:eva" }
+}

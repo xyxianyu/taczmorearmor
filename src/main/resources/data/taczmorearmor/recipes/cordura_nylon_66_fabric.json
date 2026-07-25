@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "NLN",
+    "   "
+  ],
+  "key": {
+    "N": { "item": "taczmorearmor:cordura_nylon" },
+    "L": { "item": "minecraft:leather" }
+  },
+  "result": { "item": "taczmorearmor:cordura_nylon_66_fabric" }
+}

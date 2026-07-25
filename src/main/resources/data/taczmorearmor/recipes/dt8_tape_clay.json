@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CS",
+    "  ",
+    "  "
+  ],
+  "key": {
+    "C": { "item": "minecraft:clay_ball" },
+    "S": { "item": "minecraft:string" }
+  },
+  "result": { "item": "taczmorearmor:dt8_tape" }
+}
