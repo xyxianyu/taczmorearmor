@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRB",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "B": { "item": "minecraft:stone_button" }
+  },
+  "result": {
+    "item": "taczmorearmor:shooting_counter",
+    "count": 1
+  }
+}

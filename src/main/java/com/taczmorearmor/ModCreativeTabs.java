@@ -44,6 +44,7 @@ public class ModCreativeTabs {
                         output.accept(ModItems.EVA.get());
                         output.accept(ModItems.DT8_TAPE.get());
                         output.accept(ModItems.LEATHERMAN_RAPTOR.get());
+                        output.accept(ModItems.SHOOTING_COUNTER.get());
                     })
                     .build());
 

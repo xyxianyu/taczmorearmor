@@ -18,5 +18,20 @@
     "sounds": [
       "taczmorearmor:4"
     ]
+  },
+  "counter_stand_by": {
+    "sounds": [
+      "taczmorearmor:01"
+    ]
+  },
+  "counter_beep_start": {
+    "sounds": [
+      "taczmorearmor:02"
+    ]
+  },
+  "counter_beep_end": {
+    "sounds": [
+      "taczmorearmor:03"
+    ]
   }
 }

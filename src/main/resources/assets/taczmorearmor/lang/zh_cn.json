@@ -27,6 +27,13 @@
 
   "item.taczmorearmor.dt8_tape": "3M DT8布基胶带",
   "item.taczmorearmor.leatherman_raptor": "莱泽曼猛禽救援剪",
+  "item.taczmorearmor.shooting_counter": "射击计数器",
+
+  "screen.taczmorearmor.shooting_counter": "射击计数器",
+
+  "key.categories.taczmorearmor": "TACZ护甲",
+  "key.taczmorearmor.shooting_counter_start": "射击计数器：开始",
+  "key.taczmorearmor.shooting_counter_stop": "射击计数器：结束",
 
   "creativetab.taczmorearmor.armor_tab": "TACZ护甲"
 }

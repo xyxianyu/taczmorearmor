@@ -28,6 +28,18 @@ public class ModSounds {
             SOUND_EVENTS.register("tape_repair",
                     () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(ExampleMod.MOD_ID, "tape_repair")));
 
+    public static final RegistryObject<SoundEvent> COUNTER_STAND_BY =
+            SOUND_EVENTS.register("counter_stand_by",
+                    () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(ExampleMod.MOD_ID, "counter_stand_by")));
+
+    public static final RegistryObject<SoundEvent> COUNTER_BEEP_START =
+            SOUND_EVENTS.register("counter_beep_start",
+                    () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(ExampleMod.MOD_ID, "counter_beep_start")));
+
+    public static final RegistryObject<SoundEvent> COUNTER_BEEP_END =
+            SOUND_EVENTS.register("counter_beep_end",
+                    () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(ExampleMod.MOD_ID, "counter_beep_end")));
+
     public static void register(IEventBus eventBus) {
         SOUND_EVENTS.register(eventBus);
     }

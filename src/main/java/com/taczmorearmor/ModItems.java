@@ -112,6 +112,10 @@ public class ModItems {
     public static final RegistryObject<Item> LEATHERMAN_RAPTOR = ITEMS.register("leatherman_raptor",
             () -> new Item(new Item.Properties().durability(500)));
 
+    // ===== 射击计数器 =====
+    public static final RegistryObject<Item> SHOOTING_COUNTER = ITEMS.register("shooting_counter",
+            () -> new ShootingCounterItem(new Item.Properties().stacksTo(1)));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

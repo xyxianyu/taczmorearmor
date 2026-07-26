@@ -27,6 +27,13 @@
 
   "item.taczmorearmor.dt8_tape": "3M DT8 Duct Tape",
   "item.taczmorearmor.leatherman_raptor": "Leatherman Raptor Rescue",
+  "item.taczmorearmor.shooting_counter": "Shooting Counter",
+
+  "screen.taczmorearmor.shooting_counter": "Shooting Counter",
+
+  "key.categories.taczmorearmor": "TACZ Armor",
+  "key.taczmorearmor.shooting_counter_start": "Shooting Counter: Start",
+  "key.taczmorearmor.shooting_counter_stop": "Shooting Counter: Stop",
 
   "creativetab.taczmorearmor.armor_tab": "TACZ Body Armors"
 }
